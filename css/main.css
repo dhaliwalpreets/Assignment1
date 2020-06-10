@@ -1,0 +1,12 @@
+#my{width:auto;
+    height:500px;
+    padding:50px;
+    float: right;}
+body{
+    background-color: azure;
+}
+
+#clrbox{
+    height: 50px;
+    width: 50px;
+}
